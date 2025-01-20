@@ -62,3 +62,8 @@ gcc -D BUFFER_SIZE=42 your_file.c -L. -lget_next_line -o your_program
 ```bash
 char *get_next_line(int fd);
 ```
+
+## Subject
+https://cdn.intra.42.fr/pdf/pdf/147230/en.subject.pdf
+
+---
